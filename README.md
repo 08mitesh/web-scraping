@@ -1,4 +1,4 @@
-# web-scraping
+# web-scrapping
 
 ## Getting Started
 #### Prerequisites
